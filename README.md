@@ -1,4 +1,4 @@
-# RNA-seq-Pre-processing Pipeline by R language
+# RNA-seq Pre-processing Pipeline by R language
 
 Manual for Darknight made by Min Heo ^^ 
 
